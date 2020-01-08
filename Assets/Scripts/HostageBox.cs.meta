@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7f611068b4d4ae04c956301eaf6633e1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - helpF: {fileID: 8300000, guid: 008a65ff58324ca4fa39a1f08b3154ba, type: 3}
+  - helpM: {fileID: 8300000, guid: 678e4bfdc26550c48a9340de45bb4a7e, type: 3}
+  - thanksF: {fileID: 8300000, guid: 09e5d2c1524460e4b99971c0a9de9735, type: 3}
+  - thanksM: {fileID: 8300000, guid: 968631b82313e9e4ba2b47e0c085d596, type: 3}
+  - hostage1: {instanceID: 0}
+  - hostage2: {instanceID: 0}
+  - theDoctor: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

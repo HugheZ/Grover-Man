@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - PlayerBullet
+  - WeaponPickup
+  - SniperBullet
+  - EndLevelTrigger
+  - Missile
+  - GrenadeExplosion
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - SniperBullet
+  - PlayerBullets
+  - Player
+  - Enemies
+  - ExtraStuff
+  - EnemyBullet
+  - EndLevelTrigger
+  - Missile
+  - Platforms
+  - Ragdoll
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Backdrop
+    uniqueID: 4169592199
+    locked: 0
+  - name: Interior
+    uniqueID: 3454242773
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bullet
+    uniqueID: 319766219
+    locked: 0
+  - name: Effects
+    uniqueID: 1348445713
+    locked: 0
+  - name: Background
+    uniqueID: 341916255
+    locked: 0

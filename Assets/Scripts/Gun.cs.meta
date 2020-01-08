@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9a51b27afce133c438f69e1fc82abedd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bang: {fileID: 8300000, guid: f954fd388c3b24e498961cabfd5c4e2b, type: 3}
+  - sniper: {fileID: 8300000, guid: 2e97a2a1286322642a043111d63ab64b, type: 3}
+  - shotgun: {fileID: 8300000, guid: bf1ef47a724973144866f88460f5f8a4, type: 3}
+  - pistol: {fileID: 8300000, guid: ed02f0eb11c8e2a4097d33dc265d8941, type: 3}
+  - gunExplosion: {instanceID: 0}
+  - baseBullet: {instanceID: 0}
+  - sniperBullet: {instanceID: 0}
+  - fgb: {instanceID: 0}
+  - gunLoc: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
