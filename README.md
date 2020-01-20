@@ -3,6 +3,10 @@ A 2D platformer shooter where you save all Grovers from the threat of Communism
 
 <img src="Assets/Sprites/UI/Splash Screen.png?raw=true"/>
 
+#### Contributors:
+* [Ben Mumaw](https://github.com/Nimitz)
+* [Nathan Stoner](https://github.com/Naxhi)
+
 ## The Game
 This game was the result of discussion about Grover ethics and culture. The conclusion of the discussionw as that the biggest threat in the minds of Grovers was that of Communism. As such, my team decided to make a game where you play as the ultimate Grover, Grover Man, and must save all residents of Grover Land from the red scourge. The game was built using Unity 2018.3, and as such, it may not build correctly with newer versions. 
 
